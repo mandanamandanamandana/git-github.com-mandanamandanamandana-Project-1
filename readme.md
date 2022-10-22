@@ -8,7 +8,7 @@
 - tech 4
 
 ### Wireframes
-![image](https://user-images.githubusercontent.com/113805276/197323618-5d72edb6-2116-411a-8019-1972017d53d5.png)
+![image](https://raw.githubusercontent.com/mandanamandanamandana/git-github.com-mandanamandanamandana-Project-1/master/Untitled-2022-10-22-0141.png)
 
 
 ### Daily Plan
