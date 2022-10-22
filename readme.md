@@ -9,8 +9,7 @@
 
 ### Wireframes
 ![some_text] (![image](https://user-images.githubusercontent.com/113805276/197323618-5d72edb6-2116-411a-8019-1972017d53d5.png)
-)
-![SOme text](https://i.ytimg.com/vi/mRf3-JkwqfU/mqdefault.jpg)
+
 
 ### Daily Plan
 
